@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Barranquilla Carnival Parade Optimization using Mixed-Integer Linear Programming
+message: "If you use this project, please cite it."
+authors:
+  - family-names: Calderón
+    given-names: Nelson
+  - family-names: Ávila
+    given-names: [Nombre]
+  - family-names: Pernett
+    given-names: [Nombre]
+  - family-names: Sierra
+    given-names: [Nombre]
+license: MIT
